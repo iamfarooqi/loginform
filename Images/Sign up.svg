@@ -1,0 +1,40 @@
+<?xml version="1.0"?><svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
+ <title>Thin Gray Login Button</title>
+ <defs>
+  <clipPath id="clipPath3828">
+   <rect width="395.50385" height="138.17282" ry="18.904718" x="-413.25079" y="357.69519" id="rect3830" fill=" rgb(255, 102, 0)"/>
+  </clipPath>
+  <clipPath id="clipPath3824">
+   <rect width="395.50385" height="138.17282" ry="18.904718" x="-413.25079" y="357.69519" id="rect3826" fill=" rgb(255, 102, 0)"/>
+  </clipPath>
+  <clipPath id="clipPath8607">
+   <rect width="395.50385" height="138.17282" ry="18.904718" x="-413.25079" y="357.69519" id="rect8609" fill=" rgb(255, 102, 0)"/>
+  </clipPath>
+  <clipPath id="clipPath8611">
+   <rect width="395.50385" height="138.17282" ry="18.904718" x="-413.25079" y="357.69519" id="rect8613" fill=" rgb(255, 102, 0)"/>
+  </clipPath>
+  <clipPath id="clipPath8713">
+   <rect width="395.50385" height="138.17282" ry="18.904718" x="-413.25079" y="357.69519" id="rect8715" fill=" rgb(255, 102, 0)"/>
+  </clipPath>
+  <clipPath id="clipPath8717">
+   <rect width="395.50385" height="138.17282" ry="18.904718" x="-413.25079" y="357.69519" id="rect8719" fill=" rgb(255, 102, 0)"/>
+  </clipPath>
+  <filter id="filter4311" x="-0.080444" width="1.160887" y="-0.207985" height="1.415971" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="13.416198" id="feGaussianBlur4313"/>
+  </filter>
+  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath4332">
+   <rect width="400.26682" height="154.8131" ry="12.566516" x="-533.35815" y="555.21869" id="rect4334" opacity="0.55"/>
+  </clipPath>
+  <filter id="filter4393" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="7.410068" id="feGaussianBlur4395"/>
+  </filter>
+ </defs>
+ <metadata id="metadata4">image/svg+xml</metadata>
+ <g>
+  <title>Layer 1</title>
+  <rect id="rect4371" y="639.058504" x="-68.917267" ry="12.566516" height="154.8131" width="400.26682" clip-path="url(#clipPath4332)" transform="matrix(1.38943,0,0,0.823165,763.156,-440.491) " filter="url(#filter4311)" stroke-miterlimit="4" stroke-width="44.252201" stroke="#000000" fill="none" opacity="0.716475"/>
+  <rect id="rect4391" y="36.373787" x="19.367176" ry="19.220732" height="142.789506" width="362.015834" filter="url(#filter4393)" stroke-width="1.16637" stroke="#000000" fill="#000000" opacity="0.55"/>
+  <rect width="356.515613" height="117.289519" ry="19.220732" x="22.120102" y="49.123778" id="rect4373" stroke-width="1.166372" stroke="#000000" fill="#2d2d2d" opacity="0.55"/>
+  <text transform="matrix(2.62236,0,0,2.90091,-504.092,-352.026) " xml:space="preserve" text-anchor="middle" font-family="Trebuchet MS" font-size="24" id="svg_2" y="167.166124" x="268.847462" stroke-width="0" stroke="#000000" fill="#ffffff">Sign Up</text>
+ </g>
+</svg>
